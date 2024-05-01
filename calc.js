@@ -88,6 +88,7 @@ function calculateArea() {
     document.getElementById("backresult8").innerHTML = "Join (4-7) with a straight line";
     document.getElementById("backresult9").innerHTML = "(6-8) = Waist to hip ="+Waisttohip+"cm";
     document.getElementById("backresult10").innerHTML = "(8-9) = 1/4th of Hip round + 2 cm (ease) ="+backfive+"cm";
+    document.getElementById("backresult31").innerHTML = "Join (7-9) with a smooth curve for waist to hip curve";
     document.getElementById("backresult11").innerHTML = "Square across from 1 and square down from 9 and mark 10";
     document.getElementById("backresult12").innerHTML = "(9-9a) = 5cm (for slits marking)";
     document.getElementById("backresult13").innerHTML = "Join (9a-10) with a straight line";
